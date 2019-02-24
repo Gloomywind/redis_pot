@@ -1,0 +1,17 @@
+Twisted==16.5.0
+argparse==1.2.1
+chardet==2.0.1
+colorama==0.2.5
+configparser==3.5.0
+constantly==15.1.0
+fakeredis==0.8.1
+html5lib==0.999
+incremental==16.10.1
+redis==2.10.5
+redis-protocol==0.0.2
+requests==2.2.1
+six==1.5.2
+urllib3==1.7.1
+wheel==0.24.0
+wsgiref==0.1.2
+zope.interface==4.3.2

@@ -1,0 +1,50 @@
+{"src_port": 43110, "timestamp": "2019-02-24T10:29:29.373482", "src_ip": "127.0.0.1", "command": "COMMAND", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43112, "timestamp": "2019-02-24T10:29:58.806856", "src_ip": "127.0.0.1", "command": "info", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43112, "timestamp": "2019-02-24T10:30:06.674061", "src_ip": "127.0.0.1", "command": "keys *", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43112, "timestamp": "2019-02-24T10:30:26.429279", "src_ip": "127.0.0.1", "command": "set name 1", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43112, "timestamp": "2019-02-24T10:30:31.880770", "src_ip": "127.0.0.1", "command": "keys *", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43112, "timestamp": "2019-02-24T10:31:12.012299", "src_ip": "127.0.0.1", "command": "get name", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43164, "timestamp": "2019-02-24T10:36:35.911817", "src_ip": "127.0.0.1", "command": "COMMAND", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43164, "timestamp": "2019-02-24T10:36:38.542307", "src_ip": "127.0.0.1", "command": "keys *", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43164, "timestamp": "2019-02-24T10:36:50.647874", "src_ip": "127.0.0.1", "command": "set name 1", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43164, "timestamp": "2019-02-24T10:36:53.685286", "src_ip": "127.0.0.1", "command": "get name", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43168, "timestamp": "2019-02-24T10:39:47.363811", "src_ip": "127.0.0.1", "command": "COMMAND", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43168, "timestamp": "2019-02-24T10:39:52.614318", "src_ip": "127.0.0.1", "command": "keys *", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43168, "timestamp": "2019-02-24T10:39:57.857509", "src_ip": "127.0.0.1", "command": "set name 1", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43168, "timestamp": "2019-02-24T10:39:59.834896", "src_ip": "127.0.0.1", "command": "get name", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43170, "timestamp": "2019-02-24T10:41:33.001440", "src_ip": "127.0.0.1", "command": "COMMAND", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43170, "timestamp": "2019-02-24T10:41:36.073028", "src_ip": "127.0.0.1", "command": "set name 1", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43170, "timestamp": "2019-02-24T10:41:38.048718", "src_ip": "127.0.0.1", "command": "get name", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43226, "timestamp": "2019-02-24T10:43:42.660765", "src_ip": "127.0.0.1", "command": "COMMAND", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43226, "timestamp": "2019-02-24T10:43:47.506290", "src_ip": "127.0.0.1", "command": "set name 1", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43226, "timestamp": "2019-02-24T10:43:50.002080", "src_ip": "127.0.0.1", "command": "get name", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43234, "timestamp": "2019-02-24T10:48:57.751398", "src_ip": "127.0.0.1", "command": "get name", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43236, "timestamp": "2019-02-24T10:49:00.540243", "src_ip": "127.0.0.1", "command": "COMMAND", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43236, "timestamp": "2019-02-24T10:49:03.695978", "src_ip": "127.0.0.1", "command": "get name", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43240, "timestamp": "2019-02-24T10:49:31.874101", "src_ip": "127.0.0.1", "command": "COMMAND", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43240, "timestamp": "2019-02-24T10:49:33.625861", "src_ip": "127.0.0.1", "command": "get name", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43240, "timestamp": "2019-02-24T10:50:25.552133", "src_ip": "127.0.0.1", "command": "set name 1", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43240, "timestamp": "2019-02-24T10:50:27.600829", "src_ip": "127.0.0.1", "command": "keys *", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43244, "timestamp": "2019-02-24T10:54:46.094505", "src_ip": "127.0.0.1", "command": "keys *", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43246, "timestamp": "2019-02-24T10:54:50.280406", "src_ip": "127.0.0.1", "command": "COMMAND", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43246, "timestamp": "2019-02-24T10:54:54.762022", "src_ip": "127.0.0.1", "command": "keys *", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43248, "timestamp": "2019-02-24T10:54:54.764770", "src_ip": "127.0.0.1", "command": "keys *", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43252, "timestamp": "2019-02-24T10:55:42.132928", "src_ip": "127.0.0.1", "command": "COMMAND", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43252, "timestamp": "2019-02-24T10:55:44.401851", "src_ip": "127.0.0.1", "command": "keys *", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43254, "timestamp": "2019-02-24T10:55:44.406209", "src_ip": "127.0.0.1", "command": "keys *", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43256, "timestamp": "2019-02-24T10:56:10.637175", "src_ip": "127.0.0.1", "command": "COMMAND", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43256, "timestamp": "2019-02-24T10:56:12.827085", "src_ip": "127.0.0.1", "command": "keys *", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43256, "timestamp": "2019-02-24T10:56:19.640676", "src_ip": "127.0.0.1", "command": "set name 1", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43256, "timestamp": "2019-02-24T10:56:21.854761", "src_ip": "127.0.0.1", "command": "keys *", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43256, "timestamp": "2019-02-24T10:56:24.804656", "src_ip": "127.0.0.1", "command": "get name", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43256, "timestamp": "2019-02-24T10:56:35.882176", "src_ip": "127.0.0.1", "command": "del name", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43256, "timestamp": "2019-02-24T10:56:38.489954", "src_ip": "127.0.0.1", "command": "keys *", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43256, "timestamp": "2019-02-24T10:57:35.391456", "src_ip": "127.0.0.1", "command": "info", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43258, "timestamp": "2019-02-24T10:58:24.259062", "src_ip": "127.0.0.1", "command": "COMMAND", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43260, "timestamp": "2019-02-24T10:59:03.759103", "src_ip": "127.0.0.1", "command": "COMMAND", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43260, "timestamp": "2019-02-24T10:59:13.643803", "src_ip": "127.0.0.1", "command": "info", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43260, "timestamp": "2019-02-24T10:59:22.461992", "src_ip": "127.0.0.1", "command": "set name 1", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43260, "timestamp": "2019-02-24T10:59:25.319102", "src_ip": "127.0.0.1", "command": "get name", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43260, "timestamp": "2019-02-24T10:59:27.666761", "src_ip": "127.0.0.1", "command": "del name", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43260, "timestamp": "2019-02-24T10:59:30.738004", "src_ip": "127.0.0.1", "command": "keys *", "dst_port": 6379, "dst_ip": "127.0.0.1"}
+{"src_port": 43260, "timestamp": "2019-02-24T10:59:41.489750", "src_ip": "127.0.0.1", "command": "info", "dst_port": 6379, "dst_ip": "127.0.0.1"}
